@@ -1,0 +1,32 @@
+.menu{
+	font-size: 1.0em;
+	font: small/1.3 Arial, Helvetica, sans-serif; 
+	float: auto;
+	padding: 0% 0% 0% 18%;
+	}
+	
+	
+.menu ul{
+    margin: 0; padding:0;
+    float: auto;}
+ 
+.menu ul li{
+    display: inline;}
+ 
+.menu ul li a{
+    float: left; text-decoration: none;
+    color: white; 
+    padding: 10.5px 11px;
+    background-color: #064; }
+ 
+.menu ul li a:visited{
+    color: white;}
+ 
+.menu ul li a:hover, .menu ul li .current{
+    color: #fff;
+    background-color:#2E8B57;}
+	
+.corpo {
+background-color:#064;
+width: 50%;
+}
